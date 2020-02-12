@@ -1,0 +1,24 @@
+TESTING: int_1 BST
+
+Inorder traversal: 2 3 4 9 10 11 12 13 16 17 18 19
+Total nodes: 12
+
+---------------------------------------------------
+TESTING: int_2 BST
+
+Inorder traversal: 12 16 20 25 27 30 40 50 54 60 61 63 70 85
+Total nodes: 14
+
+---------------------------------------------------
+TESTING: int_3 BST
+
+Inorder traversal: 3
+Total nodes: 1
+
+---------------------------------------------------
+TESTING: Deleting tree...
+
+Inorder traversal: There is no tree.
+Total nodes: 0
+
+Press any key to continue . . .
